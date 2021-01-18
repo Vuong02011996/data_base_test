@@ -1,9 +1,9 @@
-from app.setting import *
+from setting import *
 import pymongo
 from milvus import Milvus, DataType
 from pprint import pprint
 import numpy as np
-from app.milvus_db import milvus_utils as mv
+from milvus_db import milvus_utils as mv
 import time
 
 # host = '14.241.120.239'

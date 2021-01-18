@@ -34,8 +34,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mongo_test/utils" />
+      <recent name="$PROJECT_DIR$/milvus_db" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/mongo_test/utils" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mongo_test" />
